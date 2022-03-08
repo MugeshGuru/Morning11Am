@@ -11,5 +11,12 @@ public class SampleGit {
 		System.out.println("Hello 3");
 		
 		System.out.println("Hello 4");
+		
+		System.out.println("Hai 1");
+		
+		System.out.println("Hai 2");
+
+		
+
 	}
 }
