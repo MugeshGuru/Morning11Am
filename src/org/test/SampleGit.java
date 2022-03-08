@@ -8,6 +8,8 @@ public class SampleGit {
 		
 		System.out.println("Hello 2");
 		
+		System.out.println("Hai 1");
 		
+		System.out.println("Hai 2");
 	}
 }
